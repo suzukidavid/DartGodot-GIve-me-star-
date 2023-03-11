@@ -59,7 +59,7 @@ Dart Version = 2.9.2 +
 
 # Be a Project Sponsor
 
-talk to me : mahdisml98@gmail.com
+talk to me : coffee.to.code.dev@gmail.com
 
 # Supporters
 
@@ -69,7 +69,7 @@ Pooya Sharifi (0.0014 BTC)
 
 # Buy Me a Coffee
 
-tell me if you paid (to save your name into supporters) : mahdisml98@gmail.com
+tell me if you paid (to save your name into supporters) : coffee.to.code.dev@gmail.com
 
 bitcoin : 1Msoj1WSgfikjGfQu4UsgwkjsYbN692C3
 
